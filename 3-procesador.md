@@ -9,7 +9,8 @@ Asignar núcleos de CPU específicos:
 --cpuset-cpus=<lista de núcleos>
 ```
 
-**¿Como saber el numero de procesadores virtuales que tiene una máquina?**
+**¿Como saber el numero de procesadores virtuales que tiene una máquina?**  
+verlos desde la pestaña de rendimiento ubicada en el administrador de tareas.  
 
 ### Para crear y ejecutar los siguientes contenedores usar la imagen de nginx:alpine
 
